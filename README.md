@@ -1,11 +1,19 @@
-# React + Vite
+# Running School Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Frontend (React + Vite)
 
-Currently, two official plugins are available:
+## General info
+This is frontend side of running school project
+	
+## Setup
+To run this project, install dependencies using poetry:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+yarn install
+```
 
-yarn add react-bootstrap-icons
-yarn add react-bootstrap bootstrap
+Run server
+```
+yarn dev
+```
+Open your browser and go to `http://localhost:5173/` to see the React application.
