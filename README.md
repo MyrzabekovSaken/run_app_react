@@ -6,7 +6,7 @@
 This is frontend side of running school project
 	
 ## Setup
-To run this project, install dependencies using poetry:
+To run this project, install dependencies using yarn:
 
 ```
 yarn install
